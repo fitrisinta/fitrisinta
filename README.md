@@ -11,6 +11,6 @@
 
 ## My Repos
 
-[![Chirp](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=chirp&show_owner=true)](https://github.com/shinokada/vennfig)
+[![Chirp](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=chirp&show_owner=true)](https://github.com/fitrisinta/chirp)
 
-[![Yum!](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=statsfig&show_owner=true)](https://github.com/fitrisinta/statsfig)
+[![Yum!](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=yum&show_owner=true)](https://github.com/fitrisinta/yum)
