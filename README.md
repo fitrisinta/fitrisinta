@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Fitri!
 
 - 🌱 I’m currently learning Ruby
-- 📫 How to reach me: <a href="https://twitter.com/fitrisinta">@fsnt01</a> 
+- 📫 How to reach me: <a href="https://twitter.com/fitrisinta">@fsintaari</a> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fitrisinta&theme=react&show_icons=true&count_private=true)
 
