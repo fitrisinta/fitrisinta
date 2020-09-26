@@ -13,4 +13,4 @@
 
 [![Chirp](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=chirp&show_owner=true)](https://github.com/shinokada/vennfig)
 
-[![Yum!](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
+[![Yum!](https://github-readme-stats.vercel.app/api/pin/?username=fitrisinta&repo=statsfig&show_owner=true)](https://github.com/fitrisinta/statsfig)
